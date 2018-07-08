@@ -1,6 +1,10 @@
 Literate programming menggunakan Jupyter Notebook: SNIPS2018
 ---
 
+Pls go to 
+- [Jupyter file](https://github.com/dasaptaerwin/literateprogrammingSNIPS2018/blob/master/ms_snips2018_2.ipynb) or 
+- [Jupyter slide](https://github.com/dasaptaerwin/literateprogrammingSNIPS2018/blob/master/ms_snips2018_slide.ipynb)
+
 
 # EN
 
