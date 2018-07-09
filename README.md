@@ -5,6 +5,10 @@ Pls go to
 - [Jupyter file](https://github.com/dasaptaerwin/literateprogrammingSNIPS2018/blob/master/ms_snips2018_2.ipynb) or 
 - [Jupyter slide](https://github.com/dasaptaerwin/literateprogrammingSNIPS2018/blob/master/ms_snips2018_slide.ipynb)
 
+Ilustrasi _reproducible research_ ([xkcd comics/242](https://xkcd.com/242/), CC-BY-NC)
+
+![reproducible](https://imgs.xkcd.com/comics/the_difference.png)
+
 
 # EN
 
